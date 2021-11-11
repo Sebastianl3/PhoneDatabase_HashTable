@@ -1,0 +1,30 @@
+321
+Samsung Galaxy s9
+999.00
+172
+Samsung Galaxy s10
+1299.00
+238
+Samsung Galaxy s20
+1499.00
+742
+Apple Iphone 6
+399.00
+928
+Apple Iphone 7
+499.00
+163
+Samsung Note20
+1399.00
+760
+Apple Iphone 8
+699.00
+544
+Google Pixel 5
+699.00
+483
+Apple Iphone SE
+399.00
+349
+Nokia 3.1 Plus
+49.99
